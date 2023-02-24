@@ -11,7 +11,8 @@ public Double sacar(Double valor)
     return 0.0;
 }
 
-public Double depositar (Double valor){
+public Double depositar (Double valor)
+{
     return 0.0;
 }
 
